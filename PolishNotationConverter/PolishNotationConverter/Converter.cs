@@ -65,8 +65,8 @@ namespace PolishNotationConverter
                 precedenceValue = 1;
             else if (precedence[2].Contains(caracter))
                 precedenceValue = 2;
-            else if (precedence[1].Contains(caracter))
-                precedenceValue = 2;
+            else if (precedence[3].Contains(caracter))
+                precedenceValue = 3;
 
             return precedenceValue;
         }
