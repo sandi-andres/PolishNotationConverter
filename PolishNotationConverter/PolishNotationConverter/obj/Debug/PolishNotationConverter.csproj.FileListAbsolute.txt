@@ -1,0 +1,9 @@
+C:\Users\1311-12.UIALABS\Desktop\PolishNotationConverter\PolishNotationConverter\obj\Debug\PolishNotationConverter.csproj.AssemblyReference.cache
+C:\Users\1311-12.UIALABS\Desktop\PolishNotationConverter\PolishNotationConverter\obj\Debug\PolishNotationConverter.Properties.Resources.resources
+C:\Users\1311-12.UIALABS\Desktop\PolishNotationConverter\PolishNotationConverter\obj\Debug\PolishNotationConverter.csproj.GenerateResource.cache
+C:\Users\1311-12.UIALABS\Desktop\PolishNotationConverter\PolishNotationConverter\obj\Debug\PolishNotationConverter.csproj.CoreCompileInputs.cache
+C:\Users\1311-12.UIALABS\Desktop\PolishNotationConverter\PolishNotationConverter\bin\Debug\PolishNotationConverter.exe.config
+C:\Users\1311-12.UIALABS\Desktop\PolishNotationConverter\PolishNotationConverter\bin\Debug\PolishNotationConverter.exe
+C:\Users\1311-12.UIALABS\Desktop\PolishNotationConverter\PolishNotationConverter\bin\Debug\PolishNotationConverter.pdb
+C:\Users\1311-12.UIALABS\Desktop\PolishNotationConverter\PolishNotationConverter\obj\Debug\PolishNotationConverter.exe
+C:\Users\1311-12.UIALABS\Desktop\PolishNotationConverter\PolishNotationConverter\obj\Debug\PolishNotationConverter.pdb
