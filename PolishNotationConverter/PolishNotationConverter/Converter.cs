@@ -54,18 +54,18 @@ namespace PolishNotationConverter
             return postfix;
         }
     
-        private int OperatorPrecedence(char caracter)
+        private int OperatorPrecedence(char character)
         {
             Dictionary<int, string> precedence = new Dictionary<int, string>()
             { {3, "^"}, {2, "*/%"}, {1, "+–"} };
 
             int precedenceValue = 0;
 
-            if (precedence[1].Contains(caracter))
+            if (precedence[1].Contains(character))
                 precedenceValue = 1;
-            else if (precedence[2].Contains(caracter))
+            else if (precedence[2].Contains(character))
                 precedenceValue = 2;
-            else if (precedence[3].Contains(caracter))
+            else if (precedence[3].Contains(character))
                 precedenceValue = 3;
 
             return precedenceValue;
